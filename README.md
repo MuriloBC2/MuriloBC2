@@ -2,7 +2,7 @@
 <!--INICIO-->
  • 🌱 Estudando <strong>Javascript e React Native.</strong>
  
- • 🥼 Cursando <strong>Desenvolvimento de Sistemas na ETEC Camargo Aranha</strong>
+ • 🥼 Cursando <strong>Análise e Desenvolvimento de Sistemas na UNINOVE - Vila Prudente</strong>
  
  • 📫 Contate-me no email: <strong>murilobarrosdocarmo@gmail.com</strong>
 <!--INICIO-->
