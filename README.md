@@ -1,6 +1,6 @@
 ### Olá! Me chamo Murilo Barros do Carmo👋
 <!--INICIO-->
- • 🌱 Estudando <strong>Javascript e React Native.</strong>
+ • 🌱 Estudando <strong>Javascript, React e  React Native.</strong>
  
  • 🥼 Cursando <strong>Análise e Desenvolvimento de Sistemas na UNINOVE - Vila Prudente</strong>
  
